@@ -1,21 +1,21 @@
 <div align="center">
 
-# Hi there, I'm Lê Hữu Trọng 👋
+# Hi there, I'm Lê Hữu Trọng 
 
-### 2nd Year IT Student @ HUIT | Building things, breaking things, learning fast
+### 3nd Year IT Student @ HUIT | Building things, breaking things, learning fast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Vibe+coding+first%2C+theory+second;Building+a+zombie+co-op+survival+game;Exploring+Machine+Learning+%26+Mobile+Dev;Coffee+%2B+Night+coding+%3D+Perfect+combo" alt="Typing SVG" />
+
 
 </div>
 
 ---
 
-## 💫 About Me
+##  About Me
 
 ```yaml
 name: "Lê Hữu Trọng"
 location: "Ho Chi Minh City, Vietnam 🇻🇳"
-education: "2nd Year IT Student @ HUIT (Ho Chi Minh City University of Industry and Trade)"
+education: "3nd Year IT Student @ HUIT (Ho Chi Minh City University of Industry and Trade)"
 focus: ["Machine Learning", "Mobile App Development", "Java", "Web Programming", "System Design"]
 philosophy: "Build first, understand the theory later"
 currently_building:
